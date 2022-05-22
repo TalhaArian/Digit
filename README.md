@@ -14,3 +14,4 @@ pkg install git
 pip2 install requests
 
 pip2 install mechanize
+git clone 

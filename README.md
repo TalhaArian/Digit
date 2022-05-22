@@ -14,4 +14,9 @@ pkg install git
 pip2 install requests
 
 pip2 install mechanize
-git clone 
+
+git clone https://github.com/TalhaArian/Digit
+
+cd Digit
+
+python2 11digit.py
